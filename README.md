@@ -13,9 +13,10 @@ I'm Nishesh Chaudhary, a frontend developer for building websites with HTML, Jav
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=nisheshchy&theme=holi&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nisheshchy&theme=holi&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nisheshchy&theme=holi&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=nisheshchy&theme=holi&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1000)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nisheshchy&theme=holi&hide_border=true&cache_seconds=1800)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nisheshchy&theme=holi&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nisheshchy&icon=0&color=0)](https://visitcount.itsvg.in)
