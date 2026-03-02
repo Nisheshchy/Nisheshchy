@@ -12,14 +12,14 @@ I'm Nishesh Chaudhary, a frontend developer for building websites with HTML, Jav
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nisheshchy&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=140)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nisheshchy&theme=vue-dark&hide_border=false&cache_seconds=140)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nisheshchy&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=140)
+![](https://github-readme-stats.vercel.app/api?username=nisheshchy&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nisheshchy&theme=vue-dark&hide_border=false&cache_seconds=60)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nisheshchy&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=60)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nisheshchy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 </div>
 
