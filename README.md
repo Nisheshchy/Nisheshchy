@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Nishesh Chaudhary, a frontend developer for building websites with HTML, JavaScript, and React, where the focus is on clean UI and practical projects.
+I'm Nishesh Chaudhary, a frontend developer for building websites with HTML, JavaScript, and React, where the focus is on clean UI and practical projects. ...
 
 
 ## 🌐 Socials:
