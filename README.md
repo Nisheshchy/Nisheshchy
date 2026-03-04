@@ -13,15 +13,15 @@ I'm Nishesh Chaudhary, a frontend developer for building websites with HTML, Jav
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=nisheshchy&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=60)
+![](https://github-readme-stats.vercel.app/api?username=nisheshchy&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&cache_seconds=30)
 
-![](https://streak-stats.demolab.com?user=nisheshchy&theme=vue-dark&cache_seconds=60)
+![](https://streak-stats.demolab.com?user=nisheshchy&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=30)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nisheshchy&theme=vue-dark&layout=compact&include_all_commits=true&count_private=true&cache_seconds=60)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nisheshchy&theme=vue-dark&layout=compact&include_all_commits=true&count_private=true&hide_border=true&langs_count=8&cache_seconds=30)
 
----
+<br/>
 
-![](https://visitcount.itsvg.in/api?id=nisheshchy&icon=5&color=0)
+![](https://komarev.com/ghpvc/?username=nisheshchy&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
