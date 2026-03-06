@@ -19,9 +19,7 @@ I'm Nishesh Chaudhary, a frontend developer for building websites with HTML, Jav
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nisheshchy&theme=vue-dark&layout=compact&include_all_commits=true&count_private=true&hide_border=true&langs_count=8&cache_seconds=30)
 
-<br/>
 
-![](https://komarev.com/ghpvc/?username=nisheshchy&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
